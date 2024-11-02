@@ -1,4 +1,4 @@
-### Olá, meu nome é Adalberto da Silva Junior, seja bem-vindo ao meu GitHub! 🖐️😁
+### Hello, my name is Adalberto da Silva Junior, welcome to my GitHub!! 🖐🏿😁
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adalbertodsj/)
 [![Email](https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adalbertojrdev@hotmail.com)
@@ -6,7 +6,15 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jr-adalberto&show_icons=true&theme=tokyonight)
 
-## Tecnologias mais utilizadas
+## About Me
+
+I'm Adalberto da Silva Junior, a back-end developer with a strong passion for technology and a background that bridges software development with critical thinking. My journey began in law, earning my degree from UNA in 2020, where I developed skills in analysis and problem-solving. However, my passion for tech led me to pursue a technologist degree in Systems Analysis and Development at Estácio, and since then, I've committed myself to advancing as a software developer.
+
+My primary focus is on Java back-end development, where I enjoy building scalable and efficient systems. I have experience in developing APIs and microservices using Java and Spring Boot, as well as working with databases such as MySQL and PostgreSQL. I’m also expanding my knowledge in Docker and MongoDB for containerization and NoSQL applications, striving to stay current with industry practices.
+
+Although my expertise centers on back-end, I've also explored front-end development academically, creating a few projects using JavaScript. I am always eager to learn, whether it's enhancing my technical stack or collaborating on innovative projects. If you’re looking for a developer who’s dedicated, adaptable, and committed to growth, let's connect and explore opportunities together!
+
+## Most used technologies
 <div style="display: inline_block"><br/>
   <img align="center" alt="Java" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="SpringBoot" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
@@ -28,5 +36,5 @@
   <img align="center" alt="API Restful" src="https://img.shields.io/badge/API%20Restful-0082C9?style=for-the-badge&logo=swagger&logoColor=white"/>
 </div>
 
-## Porcentagem de linguagens
+## Percentage of languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jr-adalberto)](https://github.com/anuraghazra/github-readme-stats)
